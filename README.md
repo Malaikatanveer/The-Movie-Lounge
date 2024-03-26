@@ -13,6 +13,7 @@ Dataset Source
 The dataset was downloaded from kaggle. It was originally scrapped from Metacritic, which is a
 movie review website.
 Source: https://www.kaggle.com/datasets/joyshil0599/movie-reviews-dataset-10k-scraped-data
+
 Dataset Description
 The dataset includes details about a number of different films, such as their titles, release dates,
 synopses, user and website ratings. This dataset is organized to make it easier to analyze and
