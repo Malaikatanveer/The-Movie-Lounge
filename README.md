@@ -27,10 +27,14 @@ movie recommendation. It contains five columns and 12926 rows.
 **Attributes**
 The main attributes of the dataset include:
 ● Movie Name: The title of the movie.
+
 ● Release Date: The date when the movie was released.
+
 ● Summary: A brief description or synopsis of the movie, providing an overview of its plot,
 characters, and themes.
+
 ● User Rating: The rating of the movie as provided by users or viewers.
+
 ● Website Rating: The rating of the movie as provided by a website or aggregator.
 
 
@@ -52,6 +56,7 @@ make informed decisions about which movies to watch.
 The main objective of the project are as follows:
 ● Create a reliable and efficient information retrieval system that can handle enormous
 datasets.
+
 ● Create an intuitive and visually appealing user interface to improve the entire
 movie-discovery experience.
 
