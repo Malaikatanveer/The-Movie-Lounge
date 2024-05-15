@@ -1,5 +1,9 @@
 # The-Movie-Lounge – A Movie Search Engine
 
+
+https://github.com/Malaikatanveer/The-Movie-Lounge/assets/132293644/a8a85160-00e5-422a-9e91-d50b0b109b36
+
+
 **Problem Statement**
 In an era of abundant cinematic content, an effective movie search engine has become
 essential. With a large dataset containing movie names, release dates, ratings, summaries, and
