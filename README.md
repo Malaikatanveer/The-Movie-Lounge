@@ -45,17 +45,13 @@ characters, and themes.
 
 **Project Description**
 
-Advanced Information Retrieval:
+
 The Movie Lounge will use information retrieval techniques
 to ensure that users get accurate and timely results when searching for movies. This search will be based on the context of the user query, rather than simple keyword search. Multiple
 parameters, such as movie titles, release dates, and ratings, will be used to produce relevant
-and precise results.
-Intuitive User Interface:
-The user interface of The Movie Lounge will be intuitive and visually
+and precise results. The user interface of The Movie Lounge will be intuitive and visually
 appealing. The platform will offer a seamless search experience, making movie discovery fun
-and effortless.
-Comprehensive Movie Information:
-Each search result in The Movie Lounge will provide
+and effortless. Each search result in The Movie Lounge will provide
 viewers with a variety of information, including full movie summaries, aggregated ratings from
 both professional critics and the general public, and other details. This will allow people to
 make informed decisions about which movies to watch.
