@@ -4,7 +4,7 @@
 https://github.com/Malaikatanveer/The-Movie-Lounge/assets/132293644/a8a85160-00e5-422a-9e91-d50b0b109b36
 
 
-**Problem Statement**
+**Problem Statement: **
 In an era of abundant cinematic content, an effective movie search engine has become
 essential. With a large dataset containing movie names, release dates, ratings, summaries, and
 user and website ratings, the objective is to build and execute a smart information retrieval
@@ -15,20 +15,20 @@ cinematic world with ease. This project aims to bridge the gap between the audie
 abundance of available content by offering a personalized movie discovery platform.
 
 
-**Dataset Source**
+**Dataset Source: **
 The dataset was downloaded from kaggle. It was originally scrapped from Metacritic, which is a
 movie review website.
 Source: https://www.kaggle.com/datasets/joyshil0599/movie-reviews-dataset-10k-scraped-data
 
 
-**Dataset Description**
+**Dataset Description: **
 The dataset includes details about a number of different films, such as their titles, release dates,
 synopses, user and website ratings. This dataset is organized to make it easier to analyze and
 retrieve movie-related data, facilitating activities like sentiment analysis, trend identification, and
 movie recommendation. It contains five columns and 12926 rows.
 
 
-**Attributes**
+**Attributes: **
 The main attributes of the dataset include:
 
 ● Movie Name: The title of the movie.
@@ -43,9 +43,7 @@ characters, and themes.
 ● Website Rating: The rating of the movie as provided by a website or aggregator.
 
 
-**Project Description**
-
-
+**Project Description: **
 The Movie Lounge will use information retrieval techniques
 to ensure that users get accurate and timely results when searching for movies. This search will be based on the context of the user query, rather than simple keyword search. Multiple
 parameters, such as movie titles, release dates, and ratings, will be used to produce relevant
@@ -57,7 +55,7 @@ both professional critics and the general public, and other details. This will a
 make informed decisions about which movies to watch.
 
 
-**Main Project Objectives**
+**Main Project Objectives: **
 The main objective of the project are as follows:
 
 ● Create a reliable and efficient information retrieval system that can handle enormous
@@ -67,7 +65,7 @@ datasets.
 movie-discovery experience.
 
 
-**Conclusion**
+**Conclusion: **
 The Movie Lounge seeks to change the way users interact with cinematic content by providing
 them with a robust tool for discovering movies based on their preferences. By merging
 information retrieval algorithms with a user-centric design, the project aims to provide a
